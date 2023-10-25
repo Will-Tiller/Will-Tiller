@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Will Tiller
 - 👀 I’m interested in learning more
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, C, JAVA, KOTLIN.
 - 💞️ I’m looking to collaborate on private and publicprojects 
 - 📫 How to reach me +258849043870
 
