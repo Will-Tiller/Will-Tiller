@@ -1,7 +1,6 @@
 - 👋 Hi, I'm @Will Tiller — Full-Stack & Mobile Developer based in Mozambique
 - 🛠️ Working with Node.js, React, Next.js, Flutter, PHP/Laravel, MySQL, PostgreSQL & Python
 - 🚀 Building my own products — BLVCK FINANCE, QR Code Generator Pro & more under Blvck Dev / The Software Industry
-- 🌍 Currently contributing to MaeBiz (mobile app) & Hospital Digital / SIS-H (digital health, Mozambique)
 - 💞️ Open to collaborating on meaningful open-source and commercial projects
 - 📧 beckhamfortunatocossa@gmail.com
 - 💼 linkedin.com/in/wiliamo-fortunato-cossa-461665213
